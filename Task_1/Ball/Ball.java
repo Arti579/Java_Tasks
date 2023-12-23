@@ -25,6 +25,6 @@ public class Ball {
         return this.color+ ", weight is "+this.weight;
     }
     public void BallsWeightSomething(){
-        System.out.println(color+"'s age in humans years is " +weight*7+ " years");
+        System.out.println(color+"'s weight in foots " +weight*0.4);
     }
 }
