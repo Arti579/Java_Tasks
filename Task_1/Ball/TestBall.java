@@ -4,7 +4,7 @@ public class TestBall {
         Ball d1 = new Ball("Red", 2);
         Ball d2 = new Ball("Green", 7);
         Ball d3 = new Ball("Blue");
-        d3.setWeight(1);
+        d3.setWeight(325);
         System.out.println(d1);
         d1.BallsWeightSomething();
         d2.BallsWeightSomething();
